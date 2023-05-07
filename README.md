@@ -2,6 +2,7 @@
 
 Readme for house-prices-advanced-regression-techniques.ipynb
 This Jupyter notebook is a data analysis and machine learning project that aims to predict house prices based on various features. The project uses the House Prices: Advanced Regression Techniques dataset from Kaggle.
+Feel free to use it for project.
 
 **Dependencies**
 The following dependencies are required to run the notebook:
